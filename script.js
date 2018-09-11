@@ -131,6 +131,7 @@ function getLargestElementAtProperty(obj, key) {
     }
 }
 
+
 //calculateBillTotal
 function calculateBillTotal(preTaxAndTipAmount) {
     var tax = preTaxAndTipAmount*.095;
